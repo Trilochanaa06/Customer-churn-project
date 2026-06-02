@@ -141,4 +141,4 @@ Trilochana
 
 MSc Medical Bioinformatics
 
-Data Analytics | Healthcare Analytics | Business Intelligence
+Data Analytics | Business Intelligence
